@@ -1,2 +1,2 @@
-# CodeBasics-AI-for-everyone
-Jupyter notebooks related to industry projects in the course
+# langchain
+Tutorial for langchain LLM library
